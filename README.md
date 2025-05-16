@@ -16,7 +16,7 @@
 <sub><i>Aperte na plataforma que você deseja</i></sub>
 </div>
 <p align="center">
-    <a href="https://centralscripts.cfd/"><img width="15%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
+    <a href="https://centralscripts.cfd/"><img width="12%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
   &nbsp;
     <a href="https://github.com/Snowxyrzk/redacao-maker"><img width="12%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
   &nbsp;
