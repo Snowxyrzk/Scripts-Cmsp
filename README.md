@@ -1,6 +1,11 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=CMSP%20Scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
 
---- 
+<div align="center">
+  <a href="https://discord.gg/centralscripts" target="_blank">
+    <img src="https://i.imgur.com/CHUfGIq.png" alt="Central Scripts Discord" width="120"/>
+  </a>
+
+  <h1><strong>Central Scripts</strong></h1>
 
 <p align="center"><strong>CMSP Scripts</strong></p>
 
@@ -45,35 +50,16 @@
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/centralscripts"><img width="12%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="10%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
-    <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+    <a href="https://pixgg.com/im_snow"><img width="10%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
   &nbsp;
-    <a 
-</p>
-
----
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="150px" align="center">
-        <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks">
-          <img src="https://i.imgur.com/7LWzOzj.png" alt="GitHub Link" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <h1><strong>CMSP Hacks</strong></h1>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center" style="background-color: #00ee9e; padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
-  <p style="color: white; font-family: 'Arial', sans-serif; font-size: 16px; margin: 0;">
-    Este README foi inspirado no <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks" style="color: white; text-decoration: underline;">CMSP Hacks</a>.
-  </p>
-</div>
+    <p style="color: white; font-family: Arial, sans-serif; font-size: 16px; margin: 0;">
+      Para acessar os tutoriais completos, entre no nosso servidor do Discord:<br>
+      <a href="https://discord.gg/centralscripts" style="color: #ffffff; text-decoration: underline;">
+        discord.gg/centralscripts
+</p>
 
 ---
 
