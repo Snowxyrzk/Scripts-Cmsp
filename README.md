@@ -28,7 +28,7 @@
   &nbsp;
     <a href="https://speakie-production.up.railway.app/"><img width="12%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
   &nbsp;
-    <a href="https://github.com/marcos10pc/Alura-Destroyer"><img width="12%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
+    <a href="https://github.com/Snowxyrzk/Alura-Destroyer"><img width="12%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
   &nbsp;
     <a href="https://kahootdestroyer.squareweb.app/"><img width="12%" alt="Kahoot" title="Kahoot" src="https://i.imgur.com/QadxbNt.png"/></a>
   &nbsp;
@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/gamesdest"><img width="12%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/centralscripts"><img width="12%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
     <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
   &nbsp;
